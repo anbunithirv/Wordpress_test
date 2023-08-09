@@ -1,0 +1,1 @@
+== Description ==To get the customer id and ingredients from MockAPI  API: https://6466e9a7ba7110b663ab51f2.mockapi.io/api/v1/pack1Can be configured in admin section.Copy the shortcode into pages or posts: [kitchen]
